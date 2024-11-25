@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GO2COD_WD_04/static/css/main.2dcd6bd2.css",
+    "main.js": "/GO2COD_WD_04/static/js/main.1bc4a545.js",
+    "static/js/453.6fc9ade6.chunk.js": "/GO2COD_WD_04/static/js/453.6fc9ade6.chunk.js",
+    "index.html": "/GO2COD_WD_04/index.html",
+    "main.2dcd6bd2.css.map": "/GO2COD_WD_04/static/css/main.2dcd6bd2.css.map",
+    "main.1bc4a545.js.map": "/GO2COD_WD_04/static/js/main.1bc4a545.js.map",
+    "453.6fc9ade6.chunk.js.map": "/GO2COD_WD_04/static/js/453.6fc9ade6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dcd6bd2.css",
+    "static/js/main.1bc4a545.js"
+  ]
+}
